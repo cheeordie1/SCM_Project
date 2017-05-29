@@ -1,0 +1,19 @@
+The Macro that enables you to search for tokens within the Excel Workbook is called SCM. It is contained
+in the file called SCM_Module.bas in this directory. Here are the instructions on how to use it.
+
+1. If the SCM_Module.bas is not yet imported into your Workbook, follow steps 2- (The Workbook in this
+project should have the module already imported, so you can skip these steps)
+
+2. Make sure your excel spreadsheet has macros enabled. This is as simple as making the file type .xlsm
+
+3. Find the Developer Tab, and click Visual Basic on the very left
+
+4. In the Visual Basic Window that opens, click on File > Import File
+
+5. Select the SCM_Module.bas and import, and you can exit the Visual Basic window
+
+6. Back in the workbook, under the Developer Tab, click the Macros button
+
+7. under "Macro Name," type SCM
+
+8. Click Run, and follow the popup instructions. You're Done! 
